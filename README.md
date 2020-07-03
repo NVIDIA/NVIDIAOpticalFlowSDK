@@ -11,8 +11,8 @@ The users must have the following hardware and software for being able to use th
 * NVIDIA Turing GPUs - Refer to the NVIDIA Optical flow developer zone web page
  (https://developer.nvidia.com/opticalflow-sdk) for GPUs which support Optical
  flow and stereo disparity hardware acceleration.
-* Windows: Display driver version 418.81  or higher
-* Linux:   Display driver version 418.30  or higher
+* Windows: Display driver version 445.87 or higher
+* Linux:   Display driver version 450.51 or higher
 
 The latest shipping NVIDIA Optical Flow SDK can be downloaded from https://developer.nvidia.com/opticalflow-sdk. 
 The NVIDIA Optical Flow SDK provides detailed documentation, sample application illustarting the usage of 
